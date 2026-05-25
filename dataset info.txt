@@ -1,0 +1,22 @@
+Red Wine Quality dataset 
+https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
+
+DESCRIPTION
+Physicochemical measurements of Portuguese red wine (Vinho Verde) with expert-assigned quality ratings. Use case: predictive modeling of wine quality from chemical attributes for objective, scalable quality control.
+Rows: 1599
+Columns: 12
+
+
+Data Dictionary
+fixed acidity: 		Concentration of non-volatile acids (tartaric acid, etc.)
+volatile acidity: 	Concentration of acetic acid; too much gives vinegar taste
+citric acid: 		Concentration of citric acid; adds 'freshness' to wine
+residual sugar: 	Amount of sugar left after fermentation (g/L)
+chlorides: 		Salt content of the wine (g/L)
+free sulfur dioxide: 	SO2 not bound to other molecules, protects against microbes (mg/L)
+total sulfur dioxide: 	Total SO2; free + bound (mg/L)
+density: 		Density of the wine (g/cm³); relates to sugar/alcohol content
+pH: 			Measure of acidity (lower = more acidic)
+sulphates: 		Potassium sulphate level; contributes to SO2 levels (g/L)
+alcohol: 		Alcohol percentage by volume (%)
+quality: 		Wine quality score (target variable; range 0–10, rated by tasters)
