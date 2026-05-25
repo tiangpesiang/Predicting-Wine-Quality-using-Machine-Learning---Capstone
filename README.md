@@ -1,12 +1,12 @@
 # Predicting-Wine-Quality-using-Machine-Learning---Capstone
 Analyze Physiochemical attributes of red wine and develop a machine learning model to predicting wine quality on Jupyter.
-<img width="837" height="533" alt="8" src="https://github.com/user-attachments/assets/790eff47-d098-423f-9a22-eb1cbcc20ab8" />
-<img width="771" height="449" alt="7" src="https://github.com/user-attachments/assets/a9e816e4-8163-4001-8c05-956783cc01bc" />
-<img width="886" height="205" alt="6" src="https://github.com/user-attachments/assets/cf4710a0-902f-429a-b36e-457d415106f0" />
-<img width="852" height="560" alt="5" src="https://github.com/user-attachments/assets/128a0a4f-f9a8-46e4-90b4-bbc3c0f76df4" />
-<img width="869" height="510" alt="4_1" src="https://github.com/user-attachments/assets/9ac573b8-b4ab-42e4-84ba-6b2dcd10e77e" />
-<img width="815" height="569" alt="4" src="https://github.com/user-attachments/assets/5b71d05c-497d-4a63-8020-032e483228bd" />
-<img width="851" height="571" alt="3" src="https://github.com/user-attachments/assets/8085ad9f-06a7-450f-83cd-77b27f8244f9" />
-<img width="986" height="537" alt="2" src="https://github.com/user-attachments/assets/58a41743-7612-4a20-b382-b1cdb8eccb97" />
-<img width="873" height="303" alt="9" src="https://github.com/user-attachments/assets/ad3964da-2485-4731-bc74-27840f15e684" />
-<img width="1123" height="299" alt="1" src="https://github.com/user-attachments/assets/1e95ad49-dafb-4888-a17e-e13f1e541328" />
+<img width="1123" height="299" alt="1" src="https://github.com/user-attachments/assets/a6b0a679-b66e-426a-a894-aa52bd1bb6fd" />
+<img width="986" height="537" alt="2" src="https://github.com/user-attachments/assets/8f21d81e-0e3c-4179-adec-91d0e1c401cf" />
+<img width="851" height="571" alt="3" src="https://github.com/user-attachments/assets/05adda47-b964-40bc-bf1f-d36f95c97d07" />
+<img width="815" height="569" alt="4" src="https://github.com/user-attachments/assets/a895afd4-a598-4e30-9e7b-098e18ba66af" />
+<img width="869" height="510" alt="4_1" src="https://github.com/user-attachments/assets/b1ea2c41-db27-4704-b720-3778d26d392a" />
+<img width="852" height="560" alt="5" src="https://github.com/user-attachments/assets/0eccd13d-1373-4b82-b160-43e259960eb5" />
+<img width="886" height="205" alt="6" src="https://github.com/user-attachments/assets/1b8d4dff-207f-490f-adeb-4986eda6a7f3" />
+<img width="771" height="449" alt="7" src="https://github.com/user-attachments/assets/d1043bd1-b78c-4eb3-bb75-b52ae05c5b56" />
+<img width="837" height="533" alt="8" src="https://github.com/user-attachments/assets/7d4f27cb-9d69-44ae-98c7-9623a3ffabb3" />
+<img width="873" height="303" alt="9" src="https://github.com/user-attachments/assets/3fe3e6c7-e071-4cab-88f7-495d7353d347" />
